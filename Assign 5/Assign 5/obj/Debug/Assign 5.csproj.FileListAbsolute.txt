@@ -1,0 +1,10 @@
+C:\Users\ahmed\Desktop\Assigns\Assign 5\Assign 5\bin\Debug\Assign 5.exe.config
+C:\Users\ahmed\Desktop\Assigns\Assign 5\Assign 5\bin\Debug\Assign 5.exe
+C:\Users\ahmed\Desktop\Assigns\Assign 5\Assign 5\bin\Debug\Assign 5.pdb
+C:\Users\ahmed\Desktop\Assigns\Assign 5\Assign 5\obj\Debug\Assign 5.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\Assigns\Assign 5\Assign 5\obj\Debug\Assign_5.Form1.resources
+C:\Users\ahmed\Desktop\Assigns\Assign 5\Assign 5\obj\Debug\Assign_5.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Assigns\Assign 5\Assign 5\obj\Debug\Assign 5.csproj.GenerateResource.Cache
+C:\Users\ahmed\Desktop\Assigns\Assign 5\Assign 5\obj\Debug\Assign 5.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Assigns\Assign 5\Assign 5\obj\Debug\Assign 5.exe
+C:\Users\ahmed\Desktop\Assigns\Assign 5\Assign 5\obj\Debug\Assign 5.pdb
